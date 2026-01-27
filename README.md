@@ -4,5 +4,5 @@ Portifólio de exemplos feitos em cursos da plataforma Alura. Envolvendo dados e
 ## janeiro
 Curso de imersão em dados utilizando python. Utilizando algumas bibliotecas como:
 
-### Pandas
+* Pandas
 Artigo saiba mais: https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar
