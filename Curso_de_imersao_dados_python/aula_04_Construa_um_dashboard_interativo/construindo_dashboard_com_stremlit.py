@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 # --- Carregamento dos dados ---
-df = pd.read_csv("./data/dados-imersao-final.csv")
+df = pd.read_csv("https://github.com/Ramon-Az/Alura/blob/main/Curso_de_imersao_dados_python/aula_04_Construa_um_dashboard_interativo/data/dados-imersao-final.csv")
 
 # --- Barra Lateral (Filtros) ---
 st.sidebar.header("🔍 Filtros")
@@ -146,4 +146,4 @@ st.dataframe(df_filtrado)
 # streamlit run .\construindo_dashboard_com_stremlit.py
 # Para para o comando: Ctrl c
 
-# Palavra-chave: 
+# Palavra-chave: ALURA
