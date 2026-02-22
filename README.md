@@ -25,3 +25,8 @@ Limpeza e tratamento de dados [Documentação](https://www.alura.com.br/conteudo
 ### Extra
 
 * *Streamlit: como compartilhar sua aplicação de dados facilmente* [Documentação](https://www.alura.com.br/artigos/streamlit-compartilhando-sua-aplicacao-de-dados-sem-dor-de-cabeca)
+
+## fevereiro
+Curso de Python para dados
+
+*Revisão básica geral sobre os fundamentos de python - primeiros passos Python para dados!*
